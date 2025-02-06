@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Fidan</h1>
-<h3 align="center">A passionate Frontend Developer from Azerbaijan</h3>
+<h3 align="center">I am a passionate Front-End Developer skilled in HTML, CSS,
+JavaScript, and React.js, specializing in creating responsive,
+user-friendly interfaces. I focus on clean, maintainable code,
+optimizing performance, and ensuring accessibility. Committed
+to continuous learning, I aim to deliver impactful digital
+solutions that elevate user experiences.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
