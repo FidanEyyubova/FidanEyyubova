@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fidan</h1>
-<h3 align="center">I am Fidan, a front-end developer. I create websites that are easy to use. My goal is to help users and make their experience better. I like learning new things and improving my skills. I follow the latest trends in web development. I use new ideas to make my work better.</h3>
+<h3 align="center">A front-end developer. I create websites that are easy to use. My goal is to help users and make their experience better. I like learning new things and improving my skills. I follow the latest trends in web development. I use new ideas to make my work better.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
