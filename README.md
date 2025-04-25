@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fidan</h1>
-<h3 align="center">I am a passionate Front-End Developer skilled in HTML, CSS,
-JavaScript, and React.js, specializing in creating responsive,
-user-friendly interfaces. I focus on clean, maintainable code,
-optimizing performance, and ensuring accessibility. Committed
-to continuous learning, I aim to deliver impactful digital
-solutions that elevate user experiences.</h3>
+<h3 align="center">I am Fidan, a front-end developer. I create websites that are easy to use. My goal is to help users and make their experience better. I like learning new things and improving my skills. I follow the latest trends in web development. I use new ideas to make my work better.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
