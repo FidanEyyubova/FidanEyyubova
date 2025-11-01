@@ -4,9 +4,7 @@
 
 ###
 
-<br clear="both">
-
-<h2 align="center">A front-end developer. I create websites that are easy to use. My goal is to help users and make their experience better. I like learning new things and improving my skills. I follow the latest trends in web development. I use new ideas to make my work better.</h2>
+<h3 align="center">A front-end developer. I create websites that are easy to use. My goal is to help users and make their experience better. I like learning new things and improving my skills. I follow the latest trends in web development. I use new ideas to make my work better.</h3>
 
 ###
 
@@ -14,7 +12,7 @@
 
 ###
 
-<h3 align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning : Typescript, Next.js and advanced frontend development concepts<br>🎯 Goals : To build beautiful, fast, and user-friendly web applications<br>💬 Ask me about : React, Tailwind CSS, JavaScript, and modern frontend development</h3>
+<h3 align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning : Typescript, Next.js and advanced frontend development concepts<br>🎯 Goals : To build beautiful, fast, and user-friendly web applications<br>💬 Ask me about : React, Tailwind CSS, JavaScript, and modern<br>frontend development</h3>
 
 ###
 
