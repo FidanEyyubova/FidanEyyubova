@@ -8,11 +8,11 @@
 
 ###
 
-<img align="right" height="230" src="https://i.pinimg.com/originals/97/35/82/973582d9b0e0761a1b880edb78b7f4e7.gif"  />
+<img align="right" height="240" src="https://i.pinimg.com/originals/97/35/82/973582d9b0e0761a1b880edb78b7f4e7.gif"  />
 
 ###
 
-<h3 align="left">✨ Creating bugs since 2024<br><br>📚 I'm currently learning : Typescript, Next.js and advanced frontend development concepts<br><br>🎯 Goals : To build beautiful, fast, and user-friendly web applications<br><br>💬 Ask me about : React, Tailwind CSS, JavaScript, and modern<br>frontend development</h3>
+<h3 align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning : Typescript, Next.js and advanced frontend development concepts<br>🎯 Goals : To build beautiful, fast, and user-friendly web applications<br>💬 Ask me about : React, Tailwind CSS, JavaScript, and modern<br>frontend development</h3>
 
 ###
 
