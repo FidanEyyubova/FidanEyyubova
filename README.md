@@ -1,12 +1,12 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=Hi,%20I'm%20Fidan&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=34&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=113F67"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hi,%20I'm%20Fidan&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=75&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=113F67"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<h4 align="center">A front-end developer. I create websites that are easy to use. My goal is to help users and make their experience better. I like learning new things and improving my skills. I follow the latest trends in web development. I use new ideas to make my work better.</h4>
+<h2 align="center">A front-end developer. I create websites that are easy to use. My goal is to help users and make their experience better. I like learning new things and improving my skills. I follow the latest trends in web development. I use new ideas to make my work better.</h2>
 
 ###
 
