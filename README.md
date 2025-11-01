@@ -1,20 +1,20 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=Hi,%20I'm%20Fidan&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=34&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=113F67"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=Hi,%20I'm%20Fidan&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=34&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=113F67"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<p align="center">A front-end developer. I create websites that are easy to use. My goal is to help users and make their experience better. I like learning new things and improving my skills. I follow the latest trends in web development. I use new ideas to make my work better.</p>
+<h4 align="center">A front-end developer. I create websites that are easy to use. My goal is to help users and make their experience better. I like learning new things and improving my skills. I follow the latest trends in web development. I use new ideas to make my work better.</h4>
 
 ###
 
-<img align="right" height="215" src="https://i.pinimg.com/originals/97/35/82/973582d9b0e0761a1b880edb78b7f4e7.gif"  />
+<img align="right" height="230" src="https://i.pinimg.com/originals/97/35/82/973582d9b0e0761a1b880edb78b7f4e7.gif"  />
 
 ###
 
-<h4 align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning : Typescript, Next.js and advanced frontend development concepts<br>🎯 Goals : To build beautiful, fast, and user-friendly web applications<br>💬 Ask me about : React, Tailwind CSS, JavaScript, and modern frontend development</h4>
+<h3 align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning : Typescript, Next.js and advanced frontend development concepts<br>🎯 Goals : To build beautiful, fast, and user-friendly web applications<br>💬 Ask me about : React, Tailwind CSS, JavaScript, and modern frontend development</h3>
 
 ###
 
