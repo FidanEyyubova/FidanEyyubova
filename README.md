@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning : Typescript, Next.js, React Native and advanced frontend development concepts<br>🎯 Goals : To build beautiful, fast, and user-friendly applications<br></h3>
+<h3 align="left">✨ Creating bugs since 2024<br><br>📚 I'm currently learning : Typescript, Next.js, React Native and advanced frontend development concepts<br>🎯 Goals : To build beautiful, fast, and user-friendly applications<br></h3>
 
 <h3 align="left">My Portfolio Website:</h3>
 
